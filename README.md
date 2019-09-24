@@ -1,6 +1,5 @@
 # JAVA Project Structure Example
 
-# Java Maven example
 
 This project is a reference model/exemplar of a Java project/repository
 that facilitates/enables high-maturity CI, CD, DevOps, etc. development practices.
